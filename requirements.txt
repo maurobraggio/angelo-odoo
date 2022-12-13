@@ -35,3 +35,16 @@ python-dateutil
 vatnumber
 pdf2image
 pyzbar
+acme
+astor
+cryptography
+dataclasses
+dnspython
+josepy
+lxml
+odoorpc
+openpyxl
+openupgradelib
+pysftp
+sentry_sdk
+unidecode
