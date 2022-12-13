@@ -5,3 +5,16 @@ elementpath
 openupgradelib
 unidecode
 xmlschema>=1.7.0
+cryptography
+endesive
+py3o.formats
+py3o.template
+requests
+freezegun
+numpy
+numpy-financial<=1.0.0
+python-dateutil
+vatnumber
+pdf2image
+pyzbar
+
